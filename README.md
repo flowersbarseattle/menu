@@ -12,5 +12,5 @@ prefix in your GitHub URL by
 
 https://cdn.statically.io/gh
 
-and you're done.
+and you're done.  Remember though that Statically will locally cache github changes so you need to wait an hour or so if you update the PDF
 
